@@ -22,6 +22,15 @@ A modern, full-featured pizza ordering application built with React, Redux Toolk
 - **Vite** - Build tool and dev server
 - **ESLint** - Code linting
 
+## Screenshots
+
+- **Menu** -
+  ![alt text](image.png)
+- **Cart** -
+  ![alt text](image-1.png)
+- **Order** -
+  ![alt text](image-2.png)
+
 ## 📦 Installation
 
 1. Clone the repository:
