@@ -27,7 +27,7 @@ const fakeCart = [
   },
   {
     pizzaId: 11,
-    name: 'Spinach and Mushroom',
+    name: 'Spinach and Mushrom',
     quantity: 1,
     unitPrice: 15,
     totalPrice: 15,
