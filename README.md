@@ -1,4 +1,4 @@
-# 🍕 Fast React Pizza Co.
+# 🍕 Pizza Express Co.
 
 A modern, full-featured pizza ordering application built with React, Redux Toolkit, and React Router. Order delicious pizzas with real-time order tracking, geolocation support, and priority delivery options.
 
@@ -24,12 +24,12 @@ A modern, full-featured pizza ordering application built with React, Redux Toolk
 
 ## Screenshots
 
+- **Home** -
+  ![alt text](image-5.png)
 - **Menu** -
-  ![alt text](image.png)
-- **Cart** -
-  ![alt text](image-1.png)
+  ![alt text](image-6.png)
 - **Order** -
-  ![alt text](image-2.png)
+  ![alt text](image-7.png)
 
 ## 📦 Installation
 

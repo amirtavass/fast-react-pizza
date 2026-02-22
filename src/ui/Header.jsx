@@ -9,7 +9,7 @@ function Header() {
         to="/"
         className=" text-xl tracking-widest text-stone-50 transition-transform duration-300 ease-out hover:rotate-2 hover:scale-105 "
       >
-        🍕 Fast React Pizza Co.
+        🍕 Pizza Express Co.
       </Link>
 
       <SearchOrder />
