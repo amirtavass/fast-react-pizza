@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@config "../tailwind.config.js";
+@import 'tailwindcss';
 
 @layer components {
   .input {
@@ -10,7 +9,7 @@
   .loader {
     width: 45px;
     aspect-ratio: 0.75;
-    --c: no-repeat linear-gradient(theme(colors.stone.700) 0 0);
+    --c: no-repeat linear-gradient(var(--color-stone-700) 0 0);
     background: var(--c) 0% 50%, var(--c) 50% 50%, var(--c) 100% 50%;
     background-size: 20% 50%;
     animation: loading 1s infinite linear;
